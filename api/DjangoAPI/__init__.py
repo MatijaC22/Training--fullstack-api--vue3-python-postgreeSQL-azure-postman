@@ -1,0 +1,1 @@
+"""empty file that indicates that given folder is a python project or a python module"""
